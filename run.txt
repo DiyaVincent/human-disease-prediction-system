@@ -1,0 +1,7 @@
+cd C:\Project_Softwares\DiseaseDetection\src
+
+
+set FLASK_APP=Main.py
+
+
+python -m flask run
